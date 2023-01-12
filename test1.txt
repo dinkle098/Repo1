@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3EFD-2833
+
+ Directory of C:\Users\dinkle.panchal\Desktop\MyProject
+
+01/11/2023  15:12    <DIR>          .
+01/11/2023  15:10    <DIR>          ..
+01/11/2023  15:12                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  40,891,920,384 bytes free
