@@ -10,3 +10,4 @@
 01/24/2023  12:00                 0 test2.txt
                3 File(s)            424 bytes
                2 Dir(s)  40,371,625,984 bytes free
+THIS IS JUST FOR LEARINING GIT AND GITHUB
